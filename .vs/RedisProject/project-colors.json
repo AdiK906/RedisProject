@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f7b7296b-15d4-4f2c-96b3-b3f219ba0b03": {
+      "ProjectGuid": "f7b7296b-15d4-4f2c-96b3-b3f219ba0b03",
+      "DisplayName": "Domain",
+      "ColorIndex": 0
+    },
+    "d3cd56f6-5d11-47f5-a4e7-b7ddaba9d59e": {
+      "ProjectGuid": "d3cd56f6-5d11-47f5-a4e7-b7ddaba9d59e",
+      "DisplayName": "RedisProject",
+      "ColorIndex": 1
+    },
+    "c45f8016-3f2f-45aa-ad1a-0c6367a11b6c": {
+      "ProjectGuid": "c45f8016-3f2f-45aa-ad1a-0c6367a11b6c",
+      "DisplayName": "Application",
+      "ColorIndex": 2
+    },
+    "1fbcc961-dcd3-4a9e-8539-3a7eb2424b68": {
+      "ProjectGuid": "1fbcc961-dcd3-4a9e-8539-3a7eb2424b68",
+      "DisplayName": "Infrastructure",
+      "ColorIndex": 3
+    },
+    "658eff7f-71bb-4b1d-964f-cfea85ba9675": {
+      "ProjectGuid": "658eff7f-71bb-4b1d-964f-cfea85ba9675",
+      "DisplayName": "RedisProject",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Różne pliki",
+      "ColorIndex": -1
+    },
+    "23eabb5e-80e9-4c57-815b-d9a26cc4dc84": {
+      "ProjectGuid": "23eabb5e-80e9-4c57-815b-d9a26cc4dc84",
+      "DisplayName": "RedisProject.UnitTest",
+      "ColorIndex": 5
+    },
+    "214c21c3-b77c-40ac-b8fa-c726bb205736": {
+      "ProjectGuid": "214c21c3-b77c-40ac-b8fa-c726bb205736",
+      "DisplayName": "RedisProject.UnitTest",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
